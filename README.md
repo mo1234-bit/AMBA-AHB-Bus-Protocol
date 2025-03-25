@@ -29,6 +29,6 @@ The AMBA AHB protocol is a high-performance bus architecture for ARM-based SoCs.
 │   ├── Multiplexor.v    # Data/response multiplexor  
 │   ├── Slave.v          # Memory-backed AHB slave  
 │   └── Top.v            # Top-level system integration  
-├── docs/  
+├── doc/  
 │   └── AMBA_AHB_Spec.pdf  # Protocol reference (excerpts)  
 └── README.md  
